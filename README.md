@@ -3,9 +3,9 @@
 This project is a simple implementation of a Pictionary game in Python, consisting of a server (server.py) and a client (client.py). The game allows players to draw and guess words, creating an interactive and fun experience.
 
 ## Features
-Drawing and Guessing: Players can draw on the canvas and guess words provided by the server.
-Chat Functionality: Includes a chat feature for communication between players.
-Server-Client Architecture: Utilizes a client-server architecture to manage game interactions.
+- Drawing and Guessing: Players can draw on the canvas and guess words provided by the server.
+- Chat Functionality: Includes a chat feature for communication between players.
+- Server-Client Architecture: Utilizes a client-server architecture to manage game interactions.
 ## Setup
 ### Clone the repository:
   - git clone " "
