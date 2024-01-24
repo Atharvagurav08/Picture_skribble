@@ -24,8 +24,8 @@ This project is a simple implementation of a Pictionary game in Python, consisti
   - Enjoy a fun and interactive gaming experience!
 
 ## Dependencies
-  - Python 3.x
-  - Tkinter (included in Python standard library)
+  1. Python 3.x
+  2. Tkinter (included in Python standard library)
 
 ## Word List
   - The game uses a word list stored in nouns.txt. Feel free to customize the word list to suit your preferences.
